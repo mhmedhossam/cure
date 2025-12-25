@@ -1,0 +1,6 @@
+import 'package:round_8_mobile_cure_team3/features/home/domain/entities/doctor_model/datum.dart';
+
+abstract class HomeRemoteDataSource {
+  Future<List<Datum>> getAllDoctors(String? searchName, String? searchLocation);
+  Future<Map<String, dynamic>> addToFavourite(int id);
+}
