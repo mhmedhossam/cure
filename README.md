@@ -3,7 +3,13 @@
 CURE is a medical mobile application that allows users to book doctors, chat with them in real time, and discover nearby clinics using an interactive map. The application is fully integrated with backend APIs and built using Clean Architecture principles to ensure scalability, testability, and maintainability.
 
 ---
+📸 Screenshots
 
+Below are some screenshots showcasing key parts of the Safarni application:
+
+📌 Make sure to place the images inside a screenshots/ folder in the root of the repository.
+
+---
 ## 🚀 Features
 - Doctor booking system
 - Real-time chat with doctors
